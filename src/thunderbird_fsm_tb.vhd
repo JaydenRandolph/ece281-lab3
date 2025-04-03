@@ -166,7 +166,7 @@ begin
         
         
         --makes a pretty graph  
-        assert true = false report "test complete" severity failure;
+        --assert true = false report "test complete" severity failure;
 	
 		wait;
 	end process;
